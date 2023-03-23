@@ -257,7 +257,7 @@ window.addEventListener('load',function() {
             this.attack={};
             this.damagedone=0;
             this.time=0;
-            this.timer=5000;
+            this.timer=2000;
             this.key=0;
             this.damageblocked=0;
        
